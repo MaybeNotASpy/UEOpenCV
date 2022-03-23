@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UEOpenCV.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Documents\Unreal Projects\OpenCVModule\Intermediate\Build\Win64\OpenCVModuleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\Documents\Unreal Projects\OpenCVModule\Intermediate\Build\Win64\UE4Editor\Development\UEOpenCV\UEOpenCVModule.cpp.obj"
+"F:\Documents\Unreal Projects\OpenCVModule\Intermediate\Build\Win64\UE4Editor\Development\UEOpenCV\Default.rc2.res"
+/OUT:"F:\Documents\Unreal Projects\OpenCVModule\Intermediate\Build\Win64\UE4Editor\Development\UEOpenCV\UE4Editor-UEOpenCV.lib"

@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"F:\\Documents\\Unreal Projects\\OpenCVModule\\Source\\OpenCVModule\\OpenCVModule.Build.cs",
+		"F:\\Documents\\Unreal Projects\\OpenCVModule\\Source\\UEOpenCV\\UEOpenCV.Build.cs",
+		"F:\\Documents\\Unreal Projects\\OpenCVModule\\Source\\OpenCVModule.Target.cs",
+		"F:\\Documents\\Unreal Projects\\OpenCVModule\\Source\\OpenCVModuleEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

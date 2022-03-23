@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"OpenCVModule": "UE4Editor-OpenCVModule.dll",
+		"UEOpenCV": "UE4Editor-UEOpenCV.dll"
+	}
+}
